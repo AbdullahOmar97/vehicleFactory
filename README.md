@@ -38,6 +38,3 @@ Unit tests are provided in the `test` directory to cover various cases.
 
 ## Usage
 Instantiate `Car` and `Motorcycle` objects, modify their attributes, and get the count of vehicles created.
-
-## Submission
-Submit the pull request by May 19, 2024, at 9:30 AM.
